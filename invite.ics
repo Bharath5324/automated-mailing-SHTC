@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20210428T143000Z
+DTEND:20210428T153000Z
+DTSTAMP:20210428T133618Z
+ORGANIZER;CN=bharath.s@ieee.org:mailto:bharath.s@ieee.org
+UID:5dj3fgs1anehf1dsbvpiu4h7u1@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=bharath.s@ieee.org;X-NUM-GUESTS=0:mailto:bharath.s@ieee.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=bharath5324@gmail.com;X-NUM-GUESTS=0:mailto:bharath5324@gmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:1897764107
+CREATED:20210428T133410Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a video call.\nJoin: https://meet.google.com/hvs-nzis-
+ jsw\n(US) +1 262-674-6558 PIN: 190946729#\nView more phone numbers: https:/
+ /tel.meet/hvs-nzis-jsw?pin=4116601355834&hs=7\n\nView your event at https:/
+ /calendar.google.com/calendar/event?action=VIEW&eid=NWRqM2ZnczFhbmVoZjFkc2J
+ 2cGl1NGg3dTEgYmhhcmF0aDUzMjRAbQ&tok=MTgjYmhhcmF0aC5zQGllZWUub3JnZGRmZDA3YzM
+ 5ZDZmNjM3M2MxZmQxZmE0MTIzYTBlODFmYTU1NTk1Yw&ctz=Asia%2FKolkata&hl=en&es=1.\
+ n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~::~:~::-
+LAST-MODIFIED:20210428T133615Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Something just like this
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
